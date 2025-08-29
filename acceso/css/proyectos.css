@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #FCF5CB ;
+}
+
+.menu{
+    height: 70px;
+    width: 100;
+}
+
+.inmenu{
+font-size: 20px;
+    font-family: "Urbanist", sans-serif;
+    text-decoration: none;
+    float: right;
+    margin: 10px;
+    color: black;
+}
+
+.botom{
+     font-family: "Urbanist", sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px;
+    color: black;
+}
+
+.boton1{
+    background-color: #FCBF49;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    float: right;
+    font-size: 18px;
+    font-family: "Urbanist", sans-serif;
+    cursor: pointer;
+}
+
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+       flex-direction: column;
+    
+}
+
+
+
+.img_pro{
+    width: 700px;
+    height: 500px;
+    transition: all 0.4s ease; 
+    border-radius: 20px;
+}
+
+.imagen_pro:hover {
+transform: scale(1.05);
+}
+
+
+.contenedor_tex{
+    text-align: center;
+    font-size: 20px;
+    font-family:  "Urbanist", sans-serif;  
+    margin: 0;
+    
+}
+
+.titulo{
+    border: none;
+    cursor: pointer;
+     text-decoration: none;
+     
+}
+
+.textoge{
+
+  font-size: 20px;
+    font-family: "Urbanist", sans-serif;
+    text-decoration: none;
+
+    margin: 10px;
+    color: black;
+
+}
